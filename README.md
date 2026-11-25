@@ -127,21 +127,10 @@
 
 ---
 
-## 提交记录
+<!-- 贪吃蛇那段暂时撤下：GitHub 需要额外的 workflow 权限才能提交 Actions 文件。
+     补上权限后，把 github-profile/.github/workflows/snake.yml 推上去、跑一次 Action，
+     再把 <picture> 那段贴回这里即可。 -->
 
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/haijiawe/haijiawe/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/haijiawe/haijiawe/output/github-contribution-grid-snake.svg" />
-  <img width="100%" alt="contribution snake" src="https://raw.githubusercontent.com/haijiawe/haijiawe/output/github-contribution-grid-snake.svg" />
-</picture>
-
-</div>
-
-<!-- 要仓库里的 .github/workflows/snake.yml 跑过一次才有图，见「使用说明」第 3 步 -->
-
----
 
 <div align="center">
 

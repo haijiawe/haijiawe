@@ -123,19 +123,10 @@ When it's presentable I'll put it here — no exercise repos padding the list. T
 
 ---
 
-## Contributions
+<!-- Snake graph is temporarily removed: pushing an Actions workflow file needs an extra
+     GitHub scope. Once granted, push .github/workflows/snake.yml, run the Action once,
+     then paste the <picture> block back here. -->
 
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/haijiawe/haijiawe/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/haijiawe/haijiawe/output/github-contribution-grid-snake.svg" />
-  <img width="100%" alt="contribution snake" src="https://raw.githubusercontent.com/haijiawe/haijiawe/output/github-contribution-grid-snake.svg" />
-</picture>
-
-</div>
-
----
 
 <div align="center">
 
