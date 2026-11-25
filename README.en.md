@@ -50,21 +50,6 @@ No formal training; learning on the job. My main stack is **TypeScript** and **R
       <td>Tinkering</td>
     </tr>
     <tr>
-      <td><b>Image generation</b></td>
-      <td>Prompting, batch output, redo what doesn't work</td>
-      <td>Tinkering</td>
-    </tr>
-    <tr>
-      <td><b>Long-form writing</b></td>
-      <td>Chapter-by-chapter progress, keeping the setting and continuity straight</td>
-      <td>Tinkering</td>
-    </tr>
-    <tr>
-      <td><b>Video</b></td>
-      <td>Storyboards, assets, finished cuts</td>
-      <td>Tinkering</td>
-    </tr>
-    <tr>
       <td><b>Local models</b></td>
       <td>Serving, quantizing, getting models running on my own machine</td>
       <td>Know it</td>
